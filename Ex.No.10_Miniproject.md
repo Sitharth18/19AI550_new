@@ -1,6 +1,6 @@
 # Ex.No: 10  Implementation of 2D/3D game -------------------
 ### DATE:                                                                            
-### REGISTER NUMBER : 
+### REGISTER NUMBER : 212224110048
 ### AIM: 
 To develop a game -------------------------in Unity 
 ### Algorithm:
@@ -10,7 +10,5 @@ To develop a game -------------------------in Unity
 ### Program:
 ```
 ```
-### Output:
-
 ### Result:
 Thus the game was developed using Unity and adopted _-----------AI technology.
